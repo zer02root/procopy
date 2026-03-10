@@ -53,8 +53,8 @@ ProCopy relies on standard, ultra-stable Linux core utilities.
 ## 💻 Installation & Usage
 
 1. Clone the repository:
-   git clone [https://github.com/zer02root/ProCopy.git](https://github.com/zer02root/ProCopy.git)
-   cd ProCopy
+   git clone [https://github.com/zer02root/procopy.git](https://github.com/zer02root/procopy.git)
+   cd procopy
 
 2. Make the script executable:
    chmod +x procopy.sh
