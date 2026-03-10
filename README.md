@@ -10,8 +10,8 @@ Standard file copy operations suffer from silent data corruption, hardware bottl
 
 ## 📸 Screenshots
 
-*(Add a screenshot of your Zenity Staging Area here)*
-`![ProCopy Staging Area](link-to-image.png)`
+<img width="454" height="404" alt="image" src="https://github.com/user-attachments/assets/34d38aed-f565-45dd-a3bc-9cfc363a909a" />
+
 
 *(Add a screenshot of the Phase 1 Progress Bar here)*
 `![ProCopy Transfer Progress](link-to-image.png)`
