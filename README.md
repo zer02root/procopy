@@ -8,14 +8,6 @@
 
 Standard file copy operations suffer from silent data corruption, hardware bottlenecks, and UI freezes during massive transfers. ProCopy was engineered from the ground up to solve these issues using advanced POSIX pipeline mechanics, ensuring mathematically verified data integrity without sacrificing speed.
 
-## 📸 Screenshots
-
-<img width="454" height="404" alt="image" src="https://github.com/user-attachments/assets/34d38aed-f565-45dd-a3bc-9cfc363a909a" />
-
-<img width="553" height="280" alt="image" src="https://github.com/user-attachments/assets/29cff184-263f-4f90-9c3e-37e91b83a5d1" />
-
-
-
 ## 🚀 Key Features
 
 * **Deterministic RAM Caching (The "Live Tether"):** ProCopy prevents mechanical hard drive (HDD) thrashing by physically chaining `rsync` and `md5sum` together using a Named Pipe (`mkfifo`). As `rsync` pulls data into the OS RAM cache, the pipe instantly wakes up the hasher to read that exact same data block from memory. This guarantees a near 100% cache hit rate.
