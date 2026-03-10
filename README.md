@@ -12,9 +12,9 @@ Standard file copy operations suffer from silent data corruption, hardware bottl
 
 <img width="454" height="404" alt="image" src="https://github.com/user-attachments/assets/34d38aed-f565-45dd-a3bc-9cfc363a909a" />
 
+<img width="553" height="280" alt="image" src="https://github.com/user-attachments/assets/29cff184-263f-4f90-9c3e-37e91b83a5d1" />
 
-*(Add a screenshot of the Phase 1 Progress Bar here)*
-`![ProCopy Transfer Progress](link-to-image.png)`
+
 
 ## 🚀 Key Features
 
